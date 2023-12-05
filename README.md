@@ -39,13 +39,8 @@ These instructions will get you a copy of the project up and running on your loc
         
         
         `source venv/bin/activate`
-        
-5. Install project dependencies:
     
-    
-    `pip install -r requirements.txt`
-    
-6. Apply database migrations:
+5. Apply database migrations:
     
     
     `python manage.py migrate`
